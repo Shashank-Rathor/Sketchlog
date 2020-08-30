@@ -1,0 +1,76 @@
+.sidebarContainer{
+    width: 27%;
+    
+}
+.socialMenu{
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 0;
+  justify-content: center;
+}
+.socialMenu ul{
+  margin: 0;
+  padding: 0;
+}
+.socialMenu ul li{
+  list-style: none;
+  display: inline-block;
+}
+.socialMenu ul img{
+  width: 60%;
+}
+.socialMenu ul li a{
+  text-decoration: none;
+  display: block;
+  font-size: 20px;
+  text-transform: capitalize;
+  font-weight: 400;
+  color: #565673;
+  padding: 0 10px;
+}
+.cardHeader{
+    text-transform: uppercase;
+    font-size: 15px;
+    text-align: center;
+    box-sizing: border-box;
+    letter-spacing: 2px;
+    color: #333 ;
+}
+
+
+.profileImageContainer{
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.profileImageContainer img{
+    max-width: 100%;
+    max-height: 100%;
+    margin: 20px 0;
+}
+
+.personalBio{
+    font-size: 14px;
+    color: #565673;
+    font-weight: 300;
+}
+.recentPosts{
+    padding: 20px 0;
+}
+.recentPost{
+    border-bottom: 1px solid #eee;
+    margin-bottom: 10px;
+}
+.recentPost h3{
+    color: #6c6c6c;
+    letter-spacing: 1px;
+    font-size: 14px;
+    font-weight: 500;
+    margin: 0;
+}
+
+.recentPost span{
+    font-size: 10px;
+    font-weight: 400;
+    color: #6c6c66;
+}

@@ -1,0 +1,25 @@
+.postImageWrapper{
+    height: 450px;
+    overflow: hidden;
+}
+
+.postImageWrapper img{
+    width: 100%;
+    max-height: 100%;
+    object-fit: cover;
+}
+.readMore{
+  display: inline-block;
+    color: #ffffff;
+    background: #E84E89;
+    font-weight: 600;
+    text-transform: uppercase;
+    height: 40px;
+    font-size: 14px;
+    color: #fff;
+    line-height: 40px;
+    padding: 0 25px;
+    border-radius: 30px;
+    transition: all .17s ease;
+    margin: 25px 0;
+}

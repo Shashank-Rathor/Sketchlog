@@ -1,0 +1,10 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0;
+}
+.footer{
+  text-align: center;
+  font-family: 'Dancing Script', cursive;
+  font-size: 10px;
+}
