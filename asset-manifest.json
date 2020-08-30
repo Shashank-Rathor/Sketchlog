@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Sketchlog/static/css/main.23b7aa2c.chunk.css",
+    "main.js": "/Sketchlog/static/js/main.2efcf6d3.chunk.js",
+    "main.js.map": "/Sketchlog/static/js/main.2efcf6d3.chunk.js.map",
+    "runtime-main.js": "/Sketchlog/static/js/runtime-main.0c3e1e30.js",
+    "runtime-main.js.map": "/Sketchlog/static/js/runtime-main.0c3e1e30.js.map",
+    "static/js/2.b3fa2cfc.chunk.js": "/Sketchlog/static/js/2.b3fa2cfc.chunk.js",
+    "static/js/2.b3fa2cfc.chunk.js.map": "/Sketchlog/static/js/2.b3fa2cfc.chunk.js.map",
+    "index.html": "/Sketchlog/index.html",
+    "precache-manifest.cffaa2dba53a902d91e31891b3419f36.js": "/Sketchlog/precache-manifest.cffaa2dba53a902d91e31891b3419f36.js",
+    "service-worker.js": "/Sketchlog/service-worker.js",
+    "static/css/main.23b7aa2c.chunk.css.map": "/Sketchlog/static/css/main.23b7aa2c.chunk.css.map",
+    "static/js/2.b3fa2cfc.chunk.js.LICENSE.txt": "/Sketchlog/static/js/2.b3fa2cfc.chunk.js.LICENSE.txt",
+    "static/media/Architecture-on-Sketchbook.jpg": "/Sketchlog/static/media/Architecture-on-Sketchbook.305b1928.jpg",
+    "static/media/AssasinsCreed-EzioAuditore.jpg": "/Sketchlog/static/media/AssasinsCreed-EzioAuditore.1a46ac41.jpg",
+    "static/media/Beautiful&Simple.jpg": "/Sketchlog/static/media/Beautiful&Simple.bac88ef5.jpg",
+    "static/media/Goku.jpg": "/Sketchlog/static/media/Goku.c0021f2d.jpg",
+    "static/media/Medallion-TheWitcher.jpg": "/Sketchlog/static/media/Medallion-TheWitcher.5fe8730a.jpg",
+    "static/media/Personal.jpg": "/Sketchlog/static/media/Personal.f95dae15.jpg",
+    "static/media/Scenery.jpg": "/Sketchlog/static/media/Scenery.ed4bbe50.jpg",
+    "static/media/The-Geralt-Of-Rivia.jpg": "/Sketchlog/static/media/The-Geralt-Of-Rivia.caeaedb0.jpg",
+    "static/media/The-Wolf.jpg": "/Sketchlog/static/media/The-Wolf.8e39c843.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c3e1e30.js",
+    "static/js/2.b3fa2cfc.chunk.js",
+    "static/css/main.23b7aa2c.chunk.css",
+    "static/js/main.2efcf6d3.chunk.js"
+  ]
+}
