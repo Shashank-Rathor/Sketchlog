@@ -16,7 +16,7 @@ function App() {
         <Hero />
         <Switch>
           <Route path="/" exact component={Home}/>
-          <Route path="/Sketchlog/Home"  component={Home}/>
+          <Route path="/Sketchlog/"  component={Home}/>
         <Route path="/contact-us" component={ContactUS}/>
         <Route path="/post/:slug"  component={Post} />
         </Switch>
